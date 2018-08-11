@@ -1,6 +1,9 @@
 {
     "name": "emdadul38/calculator",
     "description": "This demo package will do some calculation",
+    "description": "description_text",
+	"minimum-stability": "dev",
+	"license": "proprietary",
     "authors": [
         {
             "name": "Emdadul Huq",
